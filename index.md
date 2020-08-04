@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Windows7XiaoGeng-bilibili/BCPE/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Windows7XiaoGeng-bilibili/BCPE/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html>
+  <head>
+  </head>
+  <div style="width:100%;margin:0 auto"><center>
+    <p><h1>欢迎使用BCPE，本项目开源地址https://github.com/Windows7XiaoGeng-bilibili/BCPE</h1></p>
+    <p><h2>鸣谢@enderman</h2></p>
+  <p><h3>项目介绍</h3></p>
+  <p><b>这是一个可以在Windows开机界面中使用命令提示符的漏洞，你在这个模式下运行在SYSTEM上，你拥有系统最高权限。</b></p>
+  <p><b>如果这时有一个病毒想要入侵你的电脑，你可以启动到那个模式，然后消灭它。并且，在Windows10加载OOBE之前，你也可以利用这个漏洞激活Windows，可能性是无穷的。</b></p>
+  <p><b>本项目专为中国用户打造，提供一键安装BCPE到你的电脑的脚本，更多内容请参阅本项目仓库中的<a href="README.MD>README</a></b></p>
+  
+  <p><h3>项目下载</h3></p>
+  <p><b><a href="download.html>项目建造中，不提供下载。</a></b></p>
+ 
+ </div>
+</html>
+    

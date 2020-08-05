@@ -9,7 +9,7 @@
   <p><b>如果这时有一个病毒想要入侵你的电脑，你可以启动到那个模式，然后消灭它。并且，在Windows10加载OOBE之前，你也可以利用这个漏洞激活Windows，可能性是无穷的。</b></p>
   <p><b>本项目专为中国用户打造，提供一键安装BCPE到你的电脑的脚本，更多内容请参阅本项目仓库中的<a href="README.MD">README</a></b></p>
 <p><h3>项目下载</h3></p>
- <p><center><b><a href="download.html">项目建造中，不提供下载。</a></b></center></p>
+ <p><center><b><a href="download.html">点击下载（2020年8月5日）</a></b></center></p>
  </div>
 </html>
     
